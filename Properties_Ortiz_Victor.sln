@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties_Ortiz_Victor", "Properties_Ortiz_Victor.csproj", "{704DD884-2D4A-4645-BCF1-A92C504FADEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{704DD884-2D4A-4645-BCF1-A92C504FADEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704DD884-2D4A-4645-BCF1-A92C504FADEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704DD884-2D4A-4645-BCF1-A92C504FADEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704DD884-2D4A-4645-BCF1-A92C504FADEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B86E872-D2D3-4A3A-852D-FFB9AC2CD626}
+	EndGlobalSection
+EndGlobal
